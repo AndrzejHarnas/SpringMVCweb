@@ -1,9 +1,10 @@
 package solution;
 
-import org.springframework.http.HttpRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import service.AddintNumbers;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -23,11 +24,18 @@ public class HomeController {
         int i = Integer.parseInt(request.getParameter("t1"));
         int j = Integer.parseInt(request.getParameter("t2"));
 
-        int k = i+j;
+        AddintNumbers k = new AddintNumbers(i,j);
 
-       addModell.addAttribute("sum",k);
+        addModell.addAttribute("sum", k.getResultSum());
 
-     return "add";
+        return "add";
     }
 
+/*    @RequestMapping(value = "/TESTWEB/Styles/", method = RequestMethod.GET)
+    public String redirect() {
+
+        return "redirect:/TESTWEB/Styles/homeStyles.css";
+
+    }
+*/
 }

@@ -1,0 +1,55 @@
+body
+{
+    background-color:#FFFFFF;
+    font-family: Verdana;
+    font-size: 20px;
+    color: #330033;
+
+}
+
+#header
+{
+    background:#6FE3F7;
+    height:25%;
+
+}
+
+#container
+{
+    width: 99.5%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#nav
+{
+    display: inline-block;
+    position:relative;
+    width:30%;
+    border: 1px solid #6FE3F7;
+
+
+}
+
+#main
+{
+    display: inline-block;
+    position:relative;
+    width:69%;
+
+    border: 1px solid #6FE3F7;
+
+
+}
+
+#footer
+{
+    background:#6FE3F7;
+    height:10%;
+}
+
+#content
+{
+    height:500px;
+    margin:1px;
+}

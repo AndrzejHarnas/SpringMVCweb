@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h1> Wynik dodawania to: ${sum} </h1>
+<h3> Wynik dodawania to: ${sum} </h3>
 
 </body>
 
