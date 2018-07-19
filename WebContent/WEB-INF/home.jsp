@@ -1,6 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <html>
 <head>
+<link href="https://fonts.googleapis.com/css?family=Merienda:400,700&amp;subset=latin-ext" rel="stylesheet">
 <style><%@include file="/WEB-INF//Styles/homeStyles.css"%></style>
 
 <title>
@@ -11,18 +12,51 @@ Moja stronka Java Spring MVC
 <body>
  <div id="container">
    <div id="header">
-    Moja stronka Java Spring MVC
+    MojaTeściowa.pl
+   </div>
+   <div id="upmenu">
+      <a href="https://www.wiocha.pl">
+      <div class="upmenuitem">
+      Wiocha
+      </div>
+      </a>
+      <a href="https://demotywatory.pl">
+      <div class="upmenuitem">
+      Demotywatory
+      </div>
+      </a>
+      <a href="https://kwejk.pl">
+      <div class="upmenuitem">
+      Kwejk
+      </div>
+      </a>
+
+      <a href="https://sucharry.pl/">
+      <div class="upmenuitem">
+      Sucharry
+      </div>
+      </a>
+
+      <a href="https://www.kurnik.pl/literaki/">
+      <div class="upmenuitem">
+       Literaki
+      </div>
+      </a>
+
+
+
    </div>
 
    <div id="content">
-    <div id="nav">
+    <div id="left">
+    <div class="box">
     <h3> Menu </h3>
      <ul>
       <li> Strona startowa </li>
       <li> Pomoc </li>
       <li> Kontakt </li>
      </ul>
-
+    </div>
     </div>
 
     <div id ="main">
@@ -35,10 +69,26 @@ Moja stronka Java Spring MVC
     </div>
 
 
+    <div id="right">
+    <div class="box">
+    <h3> Menu </h3>
+     <ul>
+      <li> Strona startowa </li>
+      <li> Pomoc </li>
+      <li> Kontakt </li>
+     </ul>
+     </div>
+
+     <div class="box">
+     <img href="../pictures/tesciowa.jpg" alt="Tu podaj tekst alternatywny" />
+     </div>
+
+    </div>
+
    </div>
 
    <div id="footer">
-   Copyright &copy; Andrzej Gołąbek
+   Copyright &copy; Harnas_20
    </div>
 
  </div>
