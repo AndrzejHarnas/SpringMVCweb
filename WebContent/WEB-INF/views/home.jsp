@@ -2,10 +2,9 @@
 <html>
 <head>
 <link href="https://fonts.googleapis.com/css?family=Merienda:400,700&amp;subset=latin-ext" rel="stylesheet">
-<style><%@include file="/WEB-INF//Styles/homeStyles.css"%></style>
-
+<link rel="Stylesheet" type="text/css" href="Styles/homeStyles.css" />
 <title>
-Moja stronka Java Spring MVC
+MojaTeściowa.pl
 </title>
 
 </head>
@@ -80,7 +79,7 @@ Moja stronka Java Spring MVC
      </div>
 
      <div class="box">
-     <img href="../pictures/tesciowa.jpg" alt="Tu podaj tekst alternatywny" />
+         <img src="pictures/tesciowa.jpg" width="220"/>
      </div>
 
     </div>

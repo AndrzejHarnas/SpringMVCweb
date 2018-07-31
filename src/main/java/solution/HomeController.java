@@ -1,16 +1,23 @@
 package solution;
 
+
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import service.AddintNumbers;
 
+
+import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+
 @Controller
 public class HomeController {
+
+//    @Value("#{'resources/pictures/tesciowa.jpg'}")
+//    private Resource tesciowa;
 
     @RequestMapping(value ="/")
     public String home(Model model){
@@ -31,11 +38,6 @@ public class HomeController {
         return "add";
     }
 
-/*    @RequestMapping(value = "/TESTWEB/Styles/", method = RequestMethod.GET)
-    public String redirect() {
 
-        return "redirect:/TESTWEB/Styles/homeStyles.css";
 
-    }
-*/
 }
