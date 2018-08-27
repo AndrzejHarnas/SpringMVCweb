@@ -6,12 +6,33 @@
 <title>
 MojaTeściowa.pl
 </title>
+<script
+			  src="https://code.jquery.com/jquery-3.3.1.js"
+			  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+			  crossorigin="anonymous">
+</script>
+
+<script type="text/javascript" src="Styles/mteciowa.js"></script>
+
+
+
 
 </head>
 <body>
  <div id="container">
+   <div id="iconmenu">
+   <div id="timer" class="icon">dupa</div>
+   <a href="https://www.facebook.com/Harnas20/?modal=admin_todo_tour">  <img src="pictures/facebook.png" class="icon"/> </a>
+
+   </div>
+
+
+
+
    <div id="header">
-    MojaTeściowa.pl
+   <img src="pictures/MTesciowa.png" id="logo">
+   <img src="pictures/MTesciowaN1.png" id="webname">
+
    </div>
    <div id="upmenu">
       <a href="https://www.wiocha.pl">
