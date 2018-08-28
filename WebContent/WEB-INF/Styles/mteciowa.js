@@ -1,3 +1,10 @@
+var slideNumber = Math.floor(Math.random()*5)+1;
+//slideNumber=1;
+var timer1=0;
+var timer2=0;
+
+
+
 function timersecond(){
 
 var today = new Date();
@@ -20,7 +27,36 @@ setTimeout("timersecond()",1000)
 function start(){
 
 timersecond();
+changeSlide();
+}
+
+function hidden(){
+	$("#slider").fadeOut(500);
 }
 
 
+function changeSlide(){
+	slideNumber++;
+	if(slideNumber > 5) slideNumber=1;
+	var plik = "<img id='slide' src=\"pictures/tesciowa"+ slideNumber +".png \"/>";
+	document.getElementById("slider").innerHTML = plik;
+	$("#slider").fadeIn(500);
+
+	timer1=setTimeout("changeSlide()",5000);
+	timer2=setTimeout("hidden()",4500);
+}
+
+function markSlide(Snumber) {
+
+	clearTimeout(timer1);
+    clearTimeout(timer2);
+	slideNumber=Snumber-1;
+	hidden();
+
+	setTimeout("changeSlide()",500);
+
+}
+
 window.onload = start;
+
+

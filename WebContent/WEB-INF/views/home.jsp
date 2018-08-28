@@ -99,7 +99,7 @@ MojaTeściowa.pl
      </ul>
      </div>
 
-     <div class="box">
+     <div id="slider" class="box">
          <img src="pictures/tesciowa.jpg" width="220"/>
      </div>
 

@@ -41,7 +41,7 @@ color:#FFFFFF;
 display: table-cell;
 vertical-align:middle;
 text-align: center;
-width:180px;
+width:185px;
 }
 
 #header
@@ -147,6 +147,12 @@ border-bottom: 1px solid #ccccff;
 {
 min-height:50px;
 border-bottom: 1px dotted #ccccff;
+}
+
+#slide
+{
+width:220px;
+
 }
 
 #footer
