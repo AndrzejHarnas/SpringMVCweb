@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="test" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+  <configuration default="false" name="test1" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" singleton="false">
     <option name="DOC_BASE" value="$PROJECT_DIR$/WebContent" />
     <option name="CONTEXT_PATH" value="/TESTWEB" />
     <option name="TOMCAT_PORT" value="8080" />
@@ -7,6 +7,8 @@
     <option name="ADMIN_PORT" value="8005" />
     <option name="VM_OPTIONS" value="" />
     <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
-    <method />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
   </configuration>
 </component>

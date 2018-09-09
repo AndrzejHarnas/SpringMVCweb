@@ -6,6 +6,7 @@
 
     <groupId>TESTWEB</groupId>
     <artifactId>TESTWEB</artifactId>
+    <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -14,13 +15,6 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
             <version>5.0.7.RELEASE</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>javax.servlet-api</artifactId>
-            <version>4.0.1</version>
-            <scope>provided</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
         <dependency>
@@ -49,8 +43,13 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.tomcat.maven/tomcat8-war-runner -->
 
-
+        <dependency>
+            <groupId>org.apache.tomcat.maven</groupId>
+            <artifactId>tomcat7-maven-plugin</artifactId>
+            <version>2.2</version>
+        </dependency>
     </dependencies>
     <build>
         <pluginManagement>
@@ -64,9 +63,41 @@
                         <target>1.6</target>
                     </configuration>
                 </plugin>
+                <plugin>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.2.2</version>
+<configuration>
+                <webXml>WebContent/WEB-INF/web.xml</webXml>
+
+    <webResources>
+        <resource>
+            <directory>WebContent/WEB-INF/pictures/</directory>
+            <targetPath>/WEB-INF/pictures/</targetPath>
+        </resource>
+        <resource>
+            <directory>WebContent/WEB-INF/Styles/</directory>
+            <targetPath>/WEB-INF/Styles/</targetPath>
+        </resource>
+        <resource>
+            <directory>WebContent/WEB-INF/views/</directory>
+            <targetPath>/WEB-INF/views/</targetPath>
+        </resource>
+        <resource>
+            <directory>WebContent/WEB-INF/</directory>
+            <includes>
+                <include>applicationContext.*</include>
+            </includes>
+            <targetPath>/WEB-INF/</targetPath>
+        </resource>
+
+
+    </webResources>
+</configuration>
+                </plugin>
+
             </plugins>
         </pluginManagement>
-        <finalName>MojaTeściwa.pl</finalName>
+        <finalName>ROOT</finalName>
     </build>
 
 </project>
