@@ -1,9 +1,9 @@
 body
 {
     background-color:#FFFFFF;
-    font-family: 'Merienda', cursive;
-    font-size: 18px;
-    color: #ff3333;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 21px;
+    color: #4C0000;
 
 }
 
@@ -15,10 +15,19 @@ body
     height:40px;
 
 }
+.fullfield
+{
+ background-color: #6666ff;
+ width:100%;
+}
+
+	
 #iconmenu
 {
 height:40px;
-background-color: #6666ff;
+margin-left: auto;
+margin-right: auto;
+width:1000px;
 margin-bottom:1px;
 padding:5px;
 text-align:right;
@@ -41,16 +50,17 @@ color:#FFFFFF;
 display: table-cell;
 vertical-align:middle;
 text-align: center;
-width:185px;
+width:200px;
 }
 
 #header
 {
     background-color: #FFFFFF;
-    min-height:200x;
+    width:1000px;
     font-size:50px;
     color: #FFFFFF;
-    border: 1px solid #ccccff;
+	margin-left: auto;
+	margin-right: auto;
 
 }
 
@@ -73,8 +83,11 @@ width:185px;
 {
 height:40px;
 background:#6666ff;
-border-top: 1px solid #ccccff;
-border-bottom: 1px solid #ccccff;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+
 }
 .upmenuitem
 {
@@ -87,6 +100,8 @@ border-bottom: 1px solid #ccccff;
     color:#ffffcc;
     padding-left:10px;
     padding-right:10px;
+	display:inline-block;
+
 }
 
 .upmenuitem:hover
@@ -117,7 +132,7 @@ border-bottom: 1px solid #ccccff;
     padding:5px;
 }
 
-#main
+main
 {
 
     float:left;
@@ -130,7 +145,37 @@ border-bottom: 1px solid #ccccff;
     padding:5px;
 }
 
-#right
+main>article>header
+{
+	text-align:center;
+	margin:5px;
+	font-size:25px;
+	font-weight:bold;
+	border-bottom: 1px solid #ccccff;
+	padding-bottom:10px;
+}
+
+main>article>section
+{
+	margin:10px;
+	text-align:justify;
+	padding-bottom:5px;
+	font-size:18px;
+}
+
+main>article>footer
+{
+	margin:5px;
+	border-top: 1px solid #ccccff;
+	border-bottom: 1px solid #ccccff;
+	padding:10px;
+	font-size:15px;
+}
+
+
+
+
+aside
 {
     float:left;
     width:22%;
@@ -143,7 +188,7 @@ border-bottom: 1px solid #ccccff;
     padding:5px;
 }
 
-.box
+nav
 {
 min-height:50px;
 border-bottom: 1px dotted #ccccff;
