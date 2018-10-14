@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <html>
 <head>
-<link href="https://fonts.googleapis.com/css?family=Merienda:400,700&amp;subset=latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
 <link rel="Stylesheet" type="text/css" href="Styles/homeStyles.css" />
 <title>
 MojaTeściowa.pl
@@ -15,17 +15,15 @@ MojaTeściowa.pl
 <script type="text/javascript" src="Styles/mteciowa.js"></script>
 
 
-
-
 </head>
 <body>
- <div id="container">
+   <div class="fullfield">
    <div id="iconmenu">
-   <div id="timer" class="icon">dupa</div>
+   <div id="timer" class="icon"></div>
    <a href="https://www.facebook.com/Harnas20/?modal=admin_todo_tour">  <img src="pictures/facebook.png" class="icon"/> </a>
 
    </div>
-
+   </div>
 
 
 
@@ -34,6 +32,8 @@ MojaTeściowa.pl
    <img src="pictures/MTesciowaN1.png" id="webname">
 
    </div>
+   
+   <div class="fullfield">
    <div id="upmenu">
       <a href="https://www.wiocha.pl">
       <div class="upmenuitem">
@@ -62,56 +62,57 @@ MojaTeściowa.pl
        Literaki
       </div>
       </a>
-
-
-
    </div>
-
+ </div>  
+   
+ <div id="container">
    <div id="content">
     <div id="left">
-    <div class="box">
-    <h3> Menu </h3>
+    <nav>
+    <header> Menu </header>
+    <section>
      <ul>
       <li> Strona startowa </li>
       <li> Pomoc </li>
       <li> Kontakt </li>
      </ul>
-    </div>
-    </div>
-
-    <div id ="main">
-    <h3> Hello Tata ${nick} </h3>
-    <form action="add">
-       <input type="text" name="t1"><br>
-       <input type="text" name="t2"><br>
-       <input type="submit" value="Dodaj" name="addInt">
-    </form>
+     </section>
+    </nav>
     </div>
 
+    <main>
+    <article>
+    <header>
+    Witam wszystkich !!!
+    </header>
+    <section>
+    Strona internetowa, którą odwiedziłeś/aś jest w trakcie tworzenia. Prawdopodobnie nie ma na niej nic ciekawego
+    i nie wiadomo czy kiedykolwiek będzie :). Jak coś proponuję pograć sobie w udostepnione gry. Takie jak szubienica, czy memory.
+    Może od czasu do czasu zostanie coś tu wrzucone. Narazie jednak do lektury zapraszam na FACEBOOK'a.
+    </section>
+    <footer>
+    Pozdrawiam Harnas_20
+    </footer>
 
-    <div id="right">
-    <div class="box">
-    <h3> Menu </h3>
-     <ul>
-      <li> Strona startowa </li>
-      <li> Pomoc </li>
-      <li> Kontakt </li>
-     </ul>
-     </div>
+    </article>
+    </main>
+
+
+    <aside>
 
      <div id="slider" class="box">
          <img src="pictures/tesciowa.jpg" width="220"/>
      </div>
 
-    </div>
+    </aside>
 
    </div>
-
+ </div>
    <div id="footer">
    Copyright &copy; Harnas_20
    </div>
 
- </div>
+
 
 </body>
 

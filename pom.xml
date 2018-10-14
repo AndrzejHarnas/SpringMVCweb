@@ -43,8 +43,13 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.tomcat.maven/tomcat8-war-runner -->
 
-
+        <dependency>
+            <groupId>org.apache.tomcat.maven</groupId>
+            <artifactId>tomcat7-maven-plugin</artifactId>
+            <version>2.2</version>
+        </dependency>
     </dependencies>
     <build>
         <pluginManagement>
@@ -60,15 +65,47 @@
                 </plugin>
                 <plugin>
                 <artifactId>maven-war-plugin</artifactId>
+<<<<<<< HEAD
                 <version>2.1.1</version>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
+=======
+                <version>3.2.2</version>
+<configuration>
+                <webXml>WebContent/WEB-INF/web.xml</webXml>
+
+    <webResources>
+        <resource>
+            <directory>WebContent/WEB-INF/pictures/</directory>
+            <targetPath>/WEB-INF/pictures/</targetPath>
+        </resource>
+        <resource>
+            <directory>WebContent/WEB-INF/Styles/</directory>
+            <targetPath>/WEB-INF/Styles/</targetPath>
+        </resource>
+        <resource>
+            <directory>WebContent/WEB-INF/views/</directory>
+            <targetPath>/WEB-INF/views/</targetPath>
+        </resource>
+        <resource>
+            <directory>WebContent/WEB-INF/</directory>
+            <includes>
+                <include>applicationContext.*</include>
+            </includes>
+            <targetPath>/WEB-INF/</targetPath>
+        </resource>
+
+
+    </webResources>
+</configuration>
+                </plugin>
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
 
             </plugins>
         </pluginManagement>
-        <finalName>MojaTeściwa.pl</finalName>
+        <finalName>ROOT</finalName>
     </build>
 
 </project>
