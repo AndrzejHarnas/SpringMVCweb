@@ -25,5 +25,6 @@
 
     <mvc:resources mapping="/pictures/**" location="/WEB-INF/pictures/"/>
     <mvc:resources mapping="/Styles/**" location="/WEB-INF/Styles/"/>
+    <mvc:resources mapping="/szubienica/**" location="/WEB-INF/szubienica/"/>
 
 </beans>

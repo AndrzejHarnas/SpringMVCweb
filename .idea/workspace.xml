@@ -7,31 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4447c615-e241-4ef7-9bd4-7278b85d4729" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TESTWEB.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/MTesciowa.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/MTesciowa.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/MTesciowaN1.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/MTesciowaN1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/facebook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa1.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa2.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa3.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa4.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa5.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa6.png" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/pictures/tesciowa6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/add.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/AddintNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AddintNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/solution/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solution/HomeController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -93,23 +73,46 @@
     <session id="1494556504">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.105" value="1" />
+          <entry key="project.open.time.120" value="1" />
           <entry key="project.open.time.140" value="1" />
+          <entry key="project.open.time.145" value="1" />
+          <entry key="project.open.time.80" value="1" />
           <entry key="project.open.time.90" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="xml" value="700" />
+          <entry key="java" value="32" />
+          <entry key="js" value="23" />
+          <entry key="jsp" value="759" />
+          <entry key="xml" value="811" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="XML" value="700" />
+          <entry key="JAVA" value="32" />
+          <entry key="JSP" value="759" />
+          <entry key="JavaScript" value="23" />
+          <entry key="XML" value="811" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="jsp" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSP" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -119,11 +122,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+            <state relative-caret-position="1245">
+              <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -131,8 +134,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="254">
               <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/szubienica/szubienica.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -149,8 +170,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1515">
-              <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+            <state relative-caret-position="-296">
+              <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/szubienica.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -158,7 +188,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="201">
               <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
             </state>
           </provider>
@@ -167,8 +197,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2295">
-              <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+            <state relative-caret-position="291">
+              <caret line="207" column="8" selection-start-line="207" selection-start-column="8" selection-end-line="207" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -176,8 +206,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/solution/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <state relative-caret-position="118">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -211,16 +244,19 @@
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/home.css" />
         <option value="$PROJECT_DIR$/src/main/java/solution/MyCaptchureServlet.java" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/Styles/home.css" />
-        <option value="$PROJECT_DIR$/src/main/java/solution/HomeController.java" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/home.jsp" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml.fxml" />
-        <option value="$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/mteciowa.js" />
-        <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/szubienica/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/solution/HomeController.java" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/views/szubienica.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/szubienica/szubienica.js" />
       </list>
     </option>
   </component>
@@ -277,11 +313,6 @@
             <path>
               <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -289,6 +320,13 @@
               <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="szubienica" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,17 +347,17 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/Styles" />
-      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/pictures" />
-      <recent name="$PROJECT_DIR$/src/main/resources/images" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/views" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF/pictures" />
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF" />
       <recent name="$PROJECT_DIR$/WebContent/pictures" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/views" />
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/Styles" />
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/pictures" />
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -380,8 +418,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49621212" visible="true" weight="0.29928172" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49621212" visible="true" weight="0.23543495" />
       <window_info id="Structure" order="1" sideWeight="0.50287354" side_tool="true" weight="0.17398244" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -389,16 +428,16 @@
       <window_info id="Favorites" order="5" sideWeight="0.5037879" side_tool="true" weight="0.18334734" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8124501" visible="true" weight="0.43230015" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8092578" visible="true" weight="0.43230015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4964086" weight="0.32626426" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970452" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.18754987" side_tool="true" visible="true" weight="0.43230015" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48446214" weight="0.32917318" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32917318" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.19074222" side_tool="true" visible="true" weight="0.43230015" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48363927" weight="0.32789558" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49960095" visible="true" weight="0.32789558" />
       <window_info anchor="bottom" id="Problems" order="12" sideWeight="0.49880287" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
@@ -460,16 +499,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/solution/MyCaptchureServlet.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/solution/WebConfig.java" />
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_testweb.xml" />
     <entry file="file://$PROJECT_DIR$/testweb.xml" />
     <entry file="file://$PROJECT_DIR$/testweb.properties" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/solution/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="207" column="8" selection-start-line="207" selection-start-column="8" selection-end-line="207" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/szubienica.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="27" column="73" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/add.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -477,46 +561,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1515">
-          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/solution/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="254">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/szubienica/szubienica.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+        <state relative-caret-position="291">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
         </state>
       </provider>
     </entry>

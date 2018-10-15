@@ -79,6 +79,10 @@
             <targetPath>/WEB-INF/Styles/</targetPath>
         </resource>
         <resource>
+            <directory>WebContent/WEB-INF/szubienica</directory>
+            <targetPath>/WEB-INF/szubienica</targetPath>
+        </resource>
+        <resource>
             <directory>WebContent/WEB-INF/views/</directory>
             <targetPath>/WEB-INF/views/</targetPath>
         </resource>

@@ -38,6 +38,16 @@ public class HomeController {
         return "add";
     }
 
+    @RequestMapping(value ="/szubienica")
+    public String szubienica(HttpServletRequest request, HttpServletResponse response, Model addModell)
+    {
+
+
+        return "szubienica";
+    }
+
+
+
 
 
 }

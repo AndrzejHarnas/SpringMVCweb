@@ -69,12 +69,11 @@ MojaTeściowa.pl
    <div id="content">
     <div id="left">
     <nav>
-    <header> Menu </header>
+    <header> Gry </header>
     <section>
      <ul>
-      <li> Strona startowa </li>
-      <li> Pomoc </li>
-      <li> Kontakt </li>
+      <li><a href="szubienica"> Szubienica </a> </li>
+      <li><a href=""> Memory </a> </li>
      </ul>
      </section>
     </nav>
