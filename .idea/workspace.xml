@@ -70,6 +70,8 @@
         </counts>
       </usages-collector>
     </session>
+<<<<<<< HEAD
+=======
     <session id="1494556504">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
@@ -119,14 +121,25 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="TESTWEB" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1245">
               <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="250">
+              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+=======
+            <state relative-caret-position="206">
+              <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
+>>>>>>> 92c354bf6d60e3c0277ab095c35685eceeee3fca
             </state>
           </provider>
         </entry>
@@ -134,8 +147,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="254">
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="44">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+=======
+            <state relative-caret-position="282">
+>>>>>>> 92c354bf6d60e3c0277ab095c35685eceeee3fca
               <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
             </state>
           </provider>
         </entry>
@@ -246,10 +268,21 @@
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/Styles/home.css" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/home.jsp" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml.fxml" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+=======
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/applicationContext.xml" />
+>>>>>>> 92c354bf6d60e3c0277ab095c35685eceeee3fca
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/mteciowa.js" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css" />
+<<<<<<< HEAD
+=======
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/WebContent/WEB-INF/szubienica/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/solution/HomeController.java" />
@@ -284,9 +317,15 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="-3" />
+    <option name="y" value="293" />
+    <option name="width" value="1245" />
+=======
     <option name="x" value="67" />
     <option name="y" value="27" />
     <option name="width" value="1235" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
     <option name="height" value="596" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -308,12 +347,36 @@
             <path>
               <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="MojaTeściwa.pl" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
+            </path>
+            <path>
+              <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="MojaTeściwa.pl" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
+            <path>
+              <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TESTWEB" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="MojaTeściwa.pl" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 92c354bf6d60e3c0277ab095c35685eceeee3fca
             </path>
             <path>
               <item name="TESTWEB" type="b2602c69:ProjectViewProjectNode" />
@@ -328,6 +391,8 @@
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="szubienica" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
           </expand>
           <select />
         </subPane>
@@ -344,7 +409,11 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+<<<<<<< HEAD
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+=======
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -392,6 +461,21 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+<<<<<<< HEAD
+    </configuration>
+    <configuration name="test" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" singleton="true">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/WebContent" />
+      <option name="CONTEXT_PATH" value="/TESTWEB" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+=======
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -420,7 +504,32 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49621212" visible="true" weight="0.23543495" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29289705" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85235435" weight="0.43230015" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49880478" weight="0.32917318" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14764565" side_tool="true" visible="true" weight="0.43230015" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48446214" weight="0.32917318" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32917318" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49621212" visible="true" weight="0.29928172" />
+>>>>>>> 92c354bf6d60e3c0277ab095c35685eceeee3fca
       <window_info id="Structure" order="1" sideWeight="0.50287354" side_tool="true" weight="0.17398244" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -439,12 +548,18 @@
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48363927" weight="0.32789558" />
       <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49960095" visible="true" weight="0.32789558" />
       <window_info anchor="bottom" id="Problems" order="12" sideWeight="0.49880287" weight="0.32952693" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.50287354" side_tool="true" visible="true" weight="0.22106944" />
+      <window_info anchor="right" id="Ant Build" order="5" sideWeight="0.49712643" visible="true" weight="0.22106944" />
+=======
       <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.5040783" side_tool="true" visible="true" weight="0.23144454" />
       <window_info anchor="right" id="Ant Build" order="5" sideWeight="0.4959217" weight="0.22106944" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3011952" />
@@ -504,12 +619,31 @@
     <entry file="file://$PROJECT_DIR$/testweb.properties" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1245">
           <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/solution/HomeController.java">
+=======
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+<<<<<<< HEAD
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_testweb.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testweb.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testweb.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/add.jsp">
+>>>>>>> 92c354bf6d60e3c0277ab095c35685eceeee3fca
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
@@ -540,10 +674,70 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/szubienica.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+=======
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/homeStyles.css">
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_testweb.xml" />
+    <entry file="file://$PROJECT_DIR$/testweb.xml" />
+    <entry file="file://$PROJECT_DIR$/testweb.properties" />
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/add.jsp">
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/solution/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/web.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+=======
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/Styles/mteciowa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="250">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+=======
+        <state relative-caret-position="2295">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
+>>>>>>> 92c354bf6d60e3c0277ab095c35685eceeee3fca
         </state>
       </provider>
     </entry>
@@ -587,6 +781,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

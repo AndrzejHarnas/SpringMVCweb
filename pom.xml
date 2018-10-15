@@ -65,6 +65,13 @@
                 </plugin>
                 <plugin>
                 <artifactId>maven-war-plugin</artifactId>
+<<<<<<< HEAD
+                <version>2.1.1</version>
+                <configuration>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
+                </configuration>
+            </plugin>
+=======
                 <version>3.2.2</version>
 <configuration>
                 <webXml>WebContent/WEB-INF/web.xml</webXml>
@@ -98,6 +105,7 @@
     </webResources>
 </configuration>
                 </plugin>
+>>>>>>> 23bc1a47d6d45c894d4ecb16119a92d95237ce60
 
             </plugins>
         </pluginManagement>
